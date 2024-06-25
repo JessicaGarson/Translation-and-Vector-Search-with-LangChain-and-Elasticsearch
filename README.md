@@ -14,9 +14,9 @@ This demo uses Elasticsearch version 8.13; if you are new, check out our Quick S
 
 You will want to load a Jupyter Notebook to work with your data interactively. To do so, you can run the following in your terminal.
 
-    ```
-    jupyter notebook
-    ```
+```bash
+jupyter notebook
+```
 
 In the right-hand corner, you can select where it says “New” to create a new Jupyter Notebook.
 
