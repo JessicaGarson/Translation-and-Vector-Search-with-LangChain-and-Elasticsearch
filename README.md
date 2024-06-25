@@ -1,6 +1,6 @@
 # Translation and Vector Search with LangChain and Elasticsearch
 
-This is an example that translates a column from Chinese to English using Doctran and uses vector search in Elasticsearch to learn more about the translated documents. The dataset used is a set of press clippings from my band's recent run of shows in the Shanghai area.
+[This is an example](tour_demo.ipynb) that translates a column from Chinese to English using Doctran and uses vector search in Elasticsearch to learn more about the translated documents. The dataset used is a set of press clippings from my band's recent run of shows in the Shanghai area.
 
 ## Getting started
 
