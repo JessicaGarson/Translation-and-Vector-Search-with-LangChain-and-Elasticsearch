@@ -12,4 +12,12 @@ export OPENAI_API_KEY="your_api_key"
 
 This demo uses Elasticsearch version 8.13; if you are new, check out our Quick Start on [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) and the [documentation on the integration between LangChain and Elasticsearch](https://python.langchain.com/v0.2/docs/integrations/vectorstores/elasticsearch/).
 
+You will want to load a Jupyter Notebook to work with your data interactively. To do so, you can run the following in your terminal.
+
+    ```
+    jupyter notebook
+    ```
+
+In the right-hand corner, you can select where it says “New” to create a new Jupyter Notebook.
+
 ## Additional resources
