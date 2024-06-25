@@ -25,6 +25,8 @@ Since this example leverages OpenAI's language models, the `langchain-openai` pa
 pip install jupyter pandas doctran langchain nest_asyncio langchain-elasticsearch langchain-openai tiktoken elasticsearch
 ```
 
+### Dataset
+
 ### Load a Jupyter Notebook
 You will want to load a Jupyter Notebook to work with your data interactively. To do so, you can run the following in your terminal.
 
@@ -35,3 +37,5 @@ jupyter notebook
 In the right-hand corner, you can select where it says “New” to create a new Jupyter Notebook.
 
 ## Additional resources
+- [LangChain and Elastic collaborate to add vector database and semantic reranking for RAG](https://www.elastic.co/search-labs/blog/langchain-collaboration)
+- [Elastic LangChain Integration](https://www.elastic.co/search-labs/integrations/langchain)
