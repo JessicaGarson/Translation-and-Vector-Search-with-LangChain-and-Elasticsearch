@@ -26,6 +26,7 @@ pip install jupyter pandas doctran langchain nest_asyncio langchain-elasticsearc
 ```
 
 ### Dataset
+The CSV used can be found [here](tour_data.csv).
 
 ### Load a Jupyter Notebook
 You will want to load a Jupyter Notebook to work with your data interactively. To do so, you can run the following in your terminal.
