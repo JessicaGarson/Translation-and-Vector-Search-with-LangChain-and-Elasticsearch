@@ -40,3 +40,8 @@ In the right-hand corner, you can select where it says “New” to create a new
 ## Additional resources
 - [LangChain and Elastic collaborate to add vector database and semantic reranking for RAG](https://www.elastic.co/search-labs/blog/langchain-collaboration)
 - [Elastic LangChain Integration](https://www.elastic.co/search-labs/integrations/langchain)
+
+## Related webinars
+- [Semantic search basics](https://www.elastic.co/virtual-events/getting-started-semantic-search-excellence)
+- [Semantic search advanced](https://www.elastic.co/virtual-events/advanced-semantic-search-excellence)
+- [Beyond RAG basics with Cohere](https://www.elastic.co/virtual-events/beyond-rag-basics)
