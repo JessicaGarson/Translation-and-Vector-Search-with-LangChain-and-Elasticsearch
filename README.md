@@ -12,7 +12,7 @@ export OPENAI_API_KEY="your_api_key"
 This demo uses Elasticsearch version 8.1t; if you are new, check out our Quick Start on [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) and the [documentation on the integration between LangChain and Elasticsearch](https://python.langchain.com/v0.2/docs/integrations/vectorstores/elasticsearch/).
 
 ### Install the required packages
-You will use [Jupyter Notebooks](https://jupyter.org/) to work with a dataset interactively. You will want to use asynchronous execution by installing [nest_asyncio](https://pypi.org/project/nest-asyncio/). For data manipulation when working with structured data like a CSV file, you must have [pandas](https://pandas.pydata.org/) installed.
+You will use [Jupyter Notebooks](https://jupyter.org/) to work with a dataset interactively. You will want to use asynchronous execution by installing [nest_asyncio](https://pypi.org/project/nest-asyncio/). For data manipulation when working with structured data, you must have [pandas](https://pandas.pydata.org/) installed.
 
 To enhance your language model applications, particularly in integrating natural language processing capabilities, you will use the [LangChain](https://langchain.com/) library. To work with Elasticsearch, you will use [Elasticsearch Python Client](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/getting-started-python.html) to connect to Elasticsearch. The `langchain-elasticsearch` package allows for interaction between LangChain and Elasticsearch.
 
