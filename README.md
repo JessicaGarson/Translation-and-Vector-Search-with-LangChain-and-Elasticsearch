@@ -34,6 +34,11 @@ In the right-hand corner, you can select where it says “New” to create a new
 ## Blog post
 You can find a write-up of this solution on [Elastic's Search Labs blog](https://www.elastic.co/search-labs/blog/unlocking-multilingual-insights).
 
+## Next steps
+- You can check out our [blog post](https://www.elastic.co/search-labs/blog/elasticsearch-knn-and-num-candidates-strategies) on the subject for more information on `num_candidates`, which could be a natural next step here. 
+- If you are looking to tune this example a bit more, you may want to check out [our documentation on tuning an approximate KNN search](https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-knn-search.html).
+- Additionally you can find another tutorial on working with [multilingual datasets](https://github.com/elastic/elasticsearch-labs/blob/main/notebooks/search/04-multilingual.ipynb) on Search Labs as well as this post which walks you through [how to build multilingual RAG with Elastic and Mistral.](https://www.elastic.co/search-labs/blog/building-multilingual-rag-with-elastic-and-mistral).
+
 ## Additional resources
 - [LangChain and Elastic collaborate to add vector database and semantic reranking for RAG](https://www.elastic.co/search-labs/blog/langchain-collaboration)
 - [Elastic LangChain Integration](https://www.elastic.co/search-labs/integrations/langchain)
